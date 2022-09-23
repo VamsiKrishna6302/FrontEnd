@@ -1,0 +1,16 @@
+#u{
+    color:blue;
+}
+#heading{
+    color:antiquewhite;
+    background-color:green;
+}
+#col{
+    border :1px solid black;
+    margin-block:center;
+    margin-top: 50px;
+    margin-bottom:100px;
+    margin-right:100px;
+    margin-left: 80px;
+    background: white;
+}
